@@ -117,6 +117,38 @@
       "categoryId": "databases",
       "thumbnail": "/uploads/a302f22f-42f3-47a7-87b8-b1dabfed28ad.png",
       "createdAt": "2026-08-25T07:21:30.983Z"
+    },
+    {
+      "id": "2670d49c-1b5d-4a38-a842-70dec3f81fab",
+      "name": "CDAHO-NAS - File Server",
+      "url": "http://fileserver.cda.ph/",
+      "categoryId": "internal-systems",
+      "thumbnail": "/uploads/2779bf77-ce75-40e2-a305-574e5475bc8c.png",
+      "createdAt": "2026-08-25T07:47:34.323Z"
+    },
+    {
+      "id": "8f586753-ec0d-4e6c-9a32-be7d1423984f",
+      "name": "Workspace",
+      "url": "https://ws.cda.gov.ph/",
+      "categoryId": "internal-systems",
+      "thumbnail": "/uploads/f8e2ddeb-99d7-498c-a8db-aceaaaeefada.png",
+      "createdAt": "2026-08-25T07:49:27.545Z"
+    },
+    {
+      "id": "574c23f2-b406-4d7c-a773-721508adb294",
+      "name": "CDA - Authentik",
+      "url": "https://login.cda.gov.ph/",
+      "categoryId": "internal-systems",
+      "thumbnail": "/uploads/ffd45e19-de81-438a-8dd8-26475fb64252.png",
+      "createdAt": "2026-08-25T07:51:25.153Z"
+    },
+    {
+      "id": "31800881-895b-443a-be3d-3f5ad9ee036a",
+      "name": "CDA - DBRS",
+      "url": "https://dbrs.cda.gov.ph/",
+      "categoryId": "internal-systems",
+      "thumbnail": "/uploads/d05cefb8-e621-4b76-9b65-5cc5ca47dd00.png",
+      "createdAt": "2026-08-25T07:52:33.829Z"
     }
   ],
   "settings": {
