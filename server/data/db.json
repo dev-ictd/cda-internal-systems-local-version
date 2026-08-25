@@ -1,0 +1,127 @@
+{
+  "categories": [
+    {
+      "id": "internal-systems",
+      "name": "Internal Systems",
+      "order": 0
+    },
+    {
+      "id": "databases",
+      "name": "Databases",
+      "order": 1
+    },
+    {
+      "id": "nginx-proxy-managers",
+      "name": "Nginx Proxy Managers",
+      "order": 2
+    },
+    {
+      "id": "monitoring-systems",
+      "name": "Monitoring Systems",
+      "order": 3
+    }
+  ],
+  "systems": [
+    {
+      "id": "cab066c1-747e-4354-b113-d6ae897a002f",
+      "name": "CS - Uptime Kuma",
+      "url": "http://192.168.2.137:3001",
+      "categoryId": "monitoring-systems",
+      "thumbnail": "/uploads/a9ebbd11-8de1-43bb-9eac-89b3aad51c39.jpg",
+      "createdAt": "2026-08-25T06:59:17.351Z"
+    },
+    {
+      "id": "0876b0fa-2a2f-4222-873d-07a73e25fa22",
+      "name": "HRIS - phpMyAdmin",
+      "url": "http://192.168.2.130:8081",
+      "categoryId": "databases",
+      "thumbnail": "/uploads/b5eaf12a-911b-45db-939e-13feb0af0fcb.png",
+      "createdAt": "2026-08-25T07:01:35.463Z"
+    },
+    {
+      "id": "1c2bc6a6-04dc-4f21-9455-0b438eaf5946",
+      "name": "CS - Nginx Proxy Manager",
+      "url": "http://192.168.2.137:81",
+      "categoryId": "nginx-proxy-managers",
+      "thumbnail": "/uploads/a9dcf6e9-5ed5-4b0a-9ba9-7541631d70f1.png",
+      "createdAt": "2026-08-25T07:03:18.103Z"
+    },
+    {
+      "id": "2b958d55-5043-4586-b09d-7f94ad0c0231",
+      "name": "HRIS",
+      "url": "https://hris.cda.gov.ph/",
+      "categoryId": "internal-systems",
+      "thumbnail": "/uploads/5645ac50-47d1-4a36-beec-f456152d7a60.png",
+      "createdAt": "2026-08-25T07:04:03.609Z"
+    },
+    {
+      "id": "79d9ddd1-2160-4cde-849b-4b1eb082eca2",
+      "name": "IMS - phpMyAdmin",
+      "url": "http://10.0.21.55:8080/",
+      "categoryId": "databases",
+      "thumbnail": "/uploads/d063fe9b-3a75-4d97-a1c7-8f811e65f435.png",
+      "createdAt": "2026-08-25T07:04:45.176Z"
+    },
+    {
+      "id": "44bad165-e22a-4416-800f-2fb474f5f1f3",
+      "name": "IMS",
+      "url": "https://ims.cda.gov.ph/",
+      "categoryId": "internal-systems",
+      "thumbnail": "/uploads/8d3866ea-ffbe-4d41-9fc6-688b6a608512.png",
+      "createdAt": "2026-08-25T07:07:48.791Z"
+    },
+    {
+      "id": "29b7072a-532b-407f-b54e-38dc38e12e69",
+      "name": "CSFC-MS",
+      "url": "https://csfc-ms.cda.gov.ph/",
+      "categoryId": "internal-systems",
+      "thumbnail": "/uploads/60355c0a-a3a1-4da1-8967-78e07a90e81d.png",
+      "createdAt": "2026-08-25T07:11:05.834Z"
+    },
+    {
+      "id": "1e25f223-938e-4469-a624-0bc6f0fdd81b",
+      "name": "HRIS - ZKTeco Biotime",
+      "url": "http://192.168.2.126:4370/login/",
+      "categoryId": "internal-systems",
+      "thumbnail": "/uploads/52f10924-8ac3-401e-b2e3-f7e362058dc5.jpg",
+      "createdAt": "2026-08-25T07:14:41.746Z"
+    },
+    {
+      "id": "97e96848-7342-4438-baa1-73a25a22ffeb",
+      "name": "IMS - Nginx Proxy Manager",
+      "url": "http://10.0.21.55:17443/",
+      "categoryId": "nginx-proxy-managers",
+      "thumbnail": "/uploads/70222cc1-aee8-4cad-b780-8ee7ccbf63fb.png",
+      "createdAt": "2026-08-25T07:17:05.923Z"
+    },
+    {
+      "id": "65264cd9-0b58-4945-bc87-a5b8a621bcc6",
+      "name": "Helpdesk",
+      "url": "https://itsupport.cda.gov.ph/admin",
+      "categoryId": "internal-systems",
+      "thumbnail": "/uploads/ff2052b2-44fe-44dd-9423-c8b7c8e956e8.jpg",
+      "createdAt": "2026-08-25T07:18:19.717Z"
+    },
+    {
+      "id": "6dfce5d3-3196-4089-a5a4-62d7f65c7169",
+      "name": "CSFC-MS - phpMyAdmin",
+      "url": "http://192.168.2.105:8080/",
+      "categoryId": "databases",
+      "thumbnail": "/uploads/dccc2ef6-4783-4e53-9920-55a081df3f97.png",
+      "createdAt": "2026-08-25T07:19:29.469Z"
+    },
+    {
+      "id": "b5c66a2a-4853-48df-bbe0-66ea1adca772",
+      "name": "CS - phpMyAdmin",
+      "url": "http://192.168.2.137:8081/",
+      "categoryId": "databases",
+      "thumbnail": "/uploads/a302f22f-42f3-47a7-87b8-b1dabfed28ad.png",
+      "createdAt": "2026-08-25T07:21:30.983Z"
+    }
+  ],
+  "settings": {
+    "title": "CDA Internal Systems",
+    "openInNewTab": true,
+    "theme": "system"
+  }
+}
