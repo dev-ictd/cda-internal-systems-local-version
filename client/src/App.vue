@@ -1,6 +1,7 @@
 <script setup>
 import { onMounted } from 'vue';
 import { store } from './store.js';
+import cdaLogo from './assets/images/cda-logo.png';
 
 onMounted(() => {
   store.load();
@@ -10,7 +11,7 @@ onMounted(() => {
 <template>
   <header class="topbar">
     <router-link to="/" class="brand">
-      <span class="brand-mark">CS</span>
+      <img :src="cdaLogo" alt="CDA" class="brand-mark" />
       <span class="brand-name">{{ store.settings.title || 'CDA Internal Systems' }}</span>
     </router-link>
     <nav class="nav">
@@ -50,16 +51,10 @@ onMounted(() => {
 }
 
 .brand-mark {
-  width: 28px;
-  height: 28px;
-  border-radius: 7px;
-  background: var(--accent);
-  color: white;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-size: 12px;
-  font-weight: 700;
+  width: 32px;
+  height: 32px;
+  object-fit: contain;
+  flex-shrink: 0;
 }
 
 .nav {
