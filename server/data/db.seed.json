@@ -1,0 +1,15 @@
+{
+  "categories": [
+    { "id": "internal-systems", "name": "Internal Systems", "order": 0 },
+    { "id": "databases", "name": "Databases", "order": 1 },
+    { "id": "nginx-proxy-managers", "name": "Nginx Proxy Managers", "order": 2 },
+    { "id": "monitoring-systems", "name": "Monitoring Systems", "order": 3 }
+  ],
+  "systems": [],
+  "settings": {
+    "title": "CDA Internal Systems",
+    "openInNewTab": true,
+    "theme": "system"
+  }
+}
+

@@ -1,0 +1,16 @@
+{
+  "name": "cda-internal-systems-server",
+  "private": true,
+  "version": "1.0.0",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cda-internal-systems": "file:..",
+    "express": "^4.19.2",
+    "multer": "^2.0.0"
+  }
+}
